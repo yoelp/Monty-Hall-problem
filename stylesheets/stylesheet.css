@@ -264,7 +264,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 850px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -420,4 +420,21 @@ Small Device Styles
     font-size: 11px;
   }
 
+}
+
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}
+input {vertical-align: top;}
+form{
+  padding-left: 0px;
+  padding-top: 40px;
+  margin-bottom: 0px;
+}
+button{
+  position: relative;
+  bottom: 5px;
 }
